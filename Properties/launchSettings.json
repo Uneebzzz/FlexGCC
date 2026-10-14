@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WorkRequestTracker.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57299;http://localhost:57300"
+    }
+  }
+}
