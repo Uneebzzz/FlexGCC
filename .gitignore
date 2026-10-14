@@ -360,3 +360,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+*.db
+*.db-shm
+*.db-wal
+bin/
+obj/
+node_modules/
+dist/
